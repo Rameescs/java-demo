@@ -1,0 +1,91 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    background: blue;
+    width: 100%;
+    height: 100px;
+}
+body{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.logo{
+    width: 50%;
+    padding-top: 45px;
+    float: left;
+}
+.logo-text{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 150px;
+
+}
+.table-actions{
+    color: #fff;
+    margin-left: 50px;
+}
+.forgot{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+.btn{
+    background-color: darkcyan;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.btn:hover{
+    background: blue;
+}
+.lhs{
+    width: 60%;
+    height: 500px;
+    float: left;
+}
+.rhs{
+    width: 40%;
+    height: 500px;
+    float:left
+}
+.motto{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.p2{
+    font-weight: bold;
+}
+.main-body{
+    width: 100%;
+    height: 500px;
+    background-color: ghostwhite;
+}
+.row1{
+    height: 20px;
+}
+.row2{
+    height: 20px;
+    width: 338px
+}
+.row3{
+    height: 20px;
+    width: 338px
+}
+.data{
+    height: 120px;
+}
+.gender{
+    padding-top: 10px;
+}
